@@ -19,7 +19,7 @@ int main() {
 
         FILE* outputFile = fopen(outputFileName, "w"); // ανοιγουμε το αρχειο για εξοδο
 
-        if(outputFileName != null) { // εαν ανοιξε το αρχειο εξοδου κομπλε
+        if(outputFile != null) { // εαν ανοιξε το αρχειο εξοδου κομπλε
             int n;
 
             // Διαβαζουμε το πληθως των αριθμων που θα εισαγει ο χρηστης
