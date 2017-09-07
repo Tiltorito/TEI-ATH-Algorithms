@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug"/>
+				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug"/>
+				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug"/>
+				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TEI_ATH_Algorithms">
-				<Option output="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/TEI_ATH_Algorithms" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug"/>
+				<Option output="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/TEI_ATH_Algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 TEI_ATH_Algorithms"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 TEI_ATH_Algorithms"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TEI_ATH_Algorithms/fast">
-				<Option output="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/TEI_ATH_Algorithms" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug"/>
+				<Option output="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/TEI_ATH_Algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 TEI_ATH_Algorithms/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 TEI_ATH_Algorithms/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/main.c">
+		<Unit filename="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/main.c">
 			<Option target="TEI_ATH_Algorithms"/>
 		</Unit>
-		<Unit filename="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/CMakeLists.txt">
+		<Unit filename="/Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

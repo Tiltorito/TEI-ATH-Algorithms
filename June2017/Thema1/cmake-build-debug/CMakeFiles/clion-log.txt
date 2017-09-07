@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/harry/Documents/GitHub/TEI-ATH-Algorithms
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1
 -- The C compiler identification is AppleClang 8.1.0.8020042
 -- The CXX compiler identification is AppleClang 8.1.0.8020042
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/harry/Documents/GitHub/TEI-ATH-Algorithms/cmake-build-debug
+-- Build files have been written to: /Users/harry/Documents/GitHub/TEI-ATH-Algorithms/June2017/Thema1/cmake-build-debug
