@@ -52,7 +52,7 @@ BOOL coltatz(int startTerm, unsigned int times) {
 
     int currentTerm = startTerm; // Ο τρεχον ορος, ξεκιναει απο τον αρχικο ορο
 
-    for(int i = 0; i < times; i++) {
+    for(unsigned int i = 0; i < times; i++) {
         /**
          * Εαν ο τρεχον ορος ειναι == 1 τοτε η ακολουθια επαλυθευτηκε, επιστρεφουμε true (1),
          * για να καταλαβει η συναρτηση η οποια καλεσε αυτην την συναρτηση οτι επαλυθευτηκε.
